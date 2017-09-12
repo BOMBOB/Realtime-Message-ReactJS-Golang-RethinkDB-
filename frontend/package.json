@@ -1,0 +1,23 @@
+{
+  "name": "realtime-web",
+  "version": "1.0.0",
+  "description": "React Websocket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Siriphong <siriphong.r8@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "fecha": "^2.3.1",
+    "prop-types": "^15.5.10",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.0",
+    "webpack": "^3.5.5"
+  }
+}
